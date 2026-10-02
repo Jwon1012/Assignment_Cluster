@@ -140,8 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="202610764_김종원_4주차_과제I.cpp" />
+    <ClCompile Include="202610764_김종원_4주차과제II.cpp" />
     <ClCompile Include="202610764_김종원_5주차과제II.cpp" />
-    <ClCompile Include="202610764_김종원_5주차과제II_외전.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

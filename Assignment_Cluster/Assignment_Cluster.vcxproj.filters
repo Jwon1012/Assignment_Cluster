@@ -21,7 +21,7 @@
     <ClCompile Include="202610764_김종원_5주차과제II.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="202610764_김종원_5주차과제II_외전.cpp">
+    <ClCompile Include="202610764_김종원_4주차과제II.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

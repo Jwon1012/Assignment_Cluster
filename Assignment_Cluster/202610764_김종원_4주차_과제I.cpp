@@ -14,7 +14,7 @@ static void prac4(void);
 static void prac5(void);
 static void prac6(void);
 
-int main(void)
+int main_I(void)
 {
 	srand((unsigned int)time(NULL));
 	int choice;

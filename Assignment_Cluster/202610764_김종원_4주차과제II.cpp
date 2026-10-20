@@ -4,7 +4,7 @@
 #define SIZE 10
 
 //최대값 찾기
-int main(void)
+int main_II(void)
 {
 	srand((unsigned int)time(NULL));
 	int seq[SIZE] = {};

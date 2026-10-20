@@ -3,7 +3,7 @@
 int returnMaxValue(int a, int b, int c);
 int returnMinValue(int a, int b, int c);
 
-int main()
+int main_III()
 {
 	int num1, num2, num3, MaxVal, MinVal;
 	printf("세개의 수를 입력하시오. ");

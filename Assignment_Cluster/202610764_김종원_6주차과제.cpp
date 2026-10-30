@@ -35,7 +35,7 @@ static int sum(int scores[YEARS][PRODUCTS]);
 //실습X
 void display_img(int pixels[8][16]);
 void inv_img(int pixels[8][16]);
-int main(void)
+int main_3(void)
 //실습XI
 
 {

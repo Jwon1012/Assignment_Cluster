@@ -96,7 +96,7 @@ static void prac7();
 static void prac8();
 static void prac9();
 
-int main(void)
+int main_e(void)
 {
 	int choice = 0;
 	int choice2 = 0;
@@ -140,7 +140,7 @@ int main(void)
 			break;
 		}
 	}
-
+	return 0;
 }
 
 static void prac2()

@@ -10,7 +10,7 @@ static void prac6(void);
 static void prac7(void);
 static void prac8(void);
 
-int main(void)
+int main_IV(void)
 {
 	int choice;
 	while (1)

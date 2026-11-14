@@ -24,7 +24,7 @@ static void prac12();
 static void prac13();
 static void prac14();
 
-int main(void)
+int main_X(void)
 {
 	int choice = 0;
 	int choice2 = 0;

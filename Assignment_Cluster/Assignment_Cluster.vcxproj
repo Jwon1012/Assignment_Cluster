@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="202610764_김종원_10주차과제.cpp" />
+    <ClCompile Include="202610764_김종원_11주차과제A.cpp" />
+    <ClCompile Include="202610764_김종원_11주차과제B.cpp" />
     <ClCompile Include="202610764_김종원_7주차과제.cpp" />
     <ClCompile Include="202610764_김종원_6주차과제.cpp" />
     <ClCompile Include="202610764_김종원_9주차과제.cpp" />

@@ -33,5 +33,11 @@
     <ClCompile Include="202610764_김종원_10주차과제.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="202610764_김종원_11주차과제A.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="202610764_김종원_11주차과제B.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

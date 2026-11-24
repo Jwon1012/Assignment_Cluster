@@ -27,7 +27,7 @@ Word dict[] =
 //for Lab6
 void encrypt(char chiper[], int shift);
 
-int main(void)
+int main_d(void)
 {
 	int choice = 0;
 	while (1)
